@@ -22,7 +22,7 @@
 <!--Intro start-->
 - 🌱 Programadora Full-Stack**
 
-- ☁️ Estudiante de Programadora Universitario - UNT 
+- ☁️ Estudiante de Programador Universitario - UNT 
 
 - 📫 No dudes en ponerte en contacto conmigo **miliantoni12@gmail.com**
 
